@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/lhstrh/archtype)
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/lhstrh/contributions)
 ![Github Highlights](https://greptile-stats.vercel.app/api/widget/lhstrh/highlights)
-![Github Archetype](https://greptile-stats.vercel.app/api/widget/lhstrh/archtype)
